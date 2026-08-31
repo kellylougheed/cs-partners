@@ -1,8 +1,9 @@
 const students = {
-    ascs: ["Charlotte", "Laura", "Sophie C", "Claire", "Camden", "Catalina", "Hannah", "Sophie H", "Alexa", "Lucy", "Audrey", "Bella", "Sabrina", "Dylan", "Nicole", "Dakota", "Adella", "Colette", "Abigail", "Darian"],
-    cs1: ["Juliet", "Jackie", "Jaya", "Yuri"],
-    acs: ["Chloe", "Caroline", "Alex", "Shae", "Maya", "Cate", "Serena"],
-    wad7: ["Chloe", "Lennon", "Barlow", "Allison", "Ceci", "Katalina", "Kayla", "Laleh", "Isabel", "Dalia", "Sana", "Quinn", "Annie", "Emilia"]
+    ascs: ["Charlotte", "Cate", "Caroline", "Camden", "Cat", "Shae", "Maya", "Jackie", "Bella", "Yuri", "Adella", "Colette", "Abigail"],
+    cs1: ["Evelyn", "Skyelar", "Addy", "Zoe", "Cyri", "Eva", "Lily", "Saige"],
+    art: ["Isla", "Ariana", "Nava", "Lotus", "Paris"],
+    datascig: ["Nora", "Phoebe", "Camden", "Eva", "Sophie", "Paloma", "Bridgett", "Katie Ray", "Violet", "Darcy", "Bella", "Sarah", "Nicole", "Kylie", "Liv", "Abigail"],
+    datascia: ["Gaia", "Ari", "Alex B", "Ashley", "Layla", "Clara", "Sophie", "Eliza", "Sloane", "Charlotte", "Shae", "Alex S", "Katia", "Adella", "Chloe", "Snow"]
 };
 
 const courseSelect = document.getElementById("courseSelect");
