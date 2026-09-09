@@ -1,6 +1,6 @@
 const students = {
     ascs: ["Charlotte", "Cate", "Caroline", "Camden", "Cat", "Shae", "Maya", "Jackie", "Bella", "Yuri", "Adella", "Colette", "Abigail"],
-    cs1: ["Evelyn", "Skyelar", "Addy", "Zoe", "Cyri", "Eva", "Lily", "Saige"],
+    cs1: ["Evelyn", "Skyelar", "Addy", "Zoe", "Cyri", "Eva B", "Lily", "Saige", "Eva F"],
     art: ["Isla", "Ariana", "Nava", "Lotus", "Paris"],
     datascig: ["Nora", "Phoebe", "Camden", "Eva", "Sophie", "Paloma", "Bridgett", "Katie Ray", "Violet", "Darcy", "Bella", "Sarah", "Nicole", "Kylie", "Liv", "Abigail"],
     datascia: ["Gaia", "Ari", "Alex B", "Ashley", "Layla", "Clara", "Sophie", "Eliza", "Sloane", "Charlotte", "Shae", "Alex S", "Katia", "Adella", "Chloe", "Snow"]
