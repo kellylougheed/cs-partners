@@ -3,7 +3,7 @@ const students = {
     cs1: ["Evelyn", "Addy", "Zoe", "Cyri", "Eva B", "Lily", "Saige", "Eva F"],
     art: ["Isla", "Ariana", "Nava", "Lotus", "Paris"],
     datascig: ["Nora", "Phoebe", "Camden", "Eva", "Sophie", "Paloma", "Bridgett", "Katie Ray", "Violet", "Darcy", "Bella", "Sarah", "Nicole", "Kylie", "Liv", "Abigail"],
-    datascia: ["Gaia", "Ari", "Alex B", "Ashley", "Layla", "Clara", "Sophie", "Eliza", "Sloane", "Charlotte", "Shae", "Alex S", "Katia", "Adella", "Chloe", "Snow"]
+    datascia: ["Gaia", "Ari", "Alex B", "Ashley", "Layla", "Clara", "Sophie", "Eliza", "Sloane", "Charlotte", "Shae", "Alex S", "Adella", "Chloe", "Snow"]
 };
 
 const courseSelect = document.getElementById("courseSelect");
