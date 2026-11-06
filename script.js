@@ -29,7 +29,7 @@ function renderStudents(courseKey) {
     });
 }
 
-// Traditional Fisher Yates
+// Traditional Fisher Yates shuffle
 function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
         let j = Math.trunc(Math.random() * (i + 1));
